@@ -1,0 +1,15 @@
+.goBack {
+  background: none;
+  border: none;
+}
+
+.goBack i {
+  background-color: rgb(121, 190, 242);
+  border-radius: 10px;
+  font-size: 20px;
+  left: 0%;
+  margin-left: 5px;
+  padding: 3px;
+  position: absolute;
+  top: 2%;
+}

@@ -1,0 +1,57 @@
+.recipe-card {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+
+.recipe-card-img {
+  width: 100%;
+}
+
+.card-title {
+  align-items: center;
+  background-color: dodgerblue;
+  color: white;
+  display: flex;
+  font-size: 10px;
+  height: 50px;
+  justify-content: space-between;
+  padding: 0 5px;
+}
+
+.card-title button {
+  background: none;
+  border: none;
+}
+
+.card-main {
+  margin: 20px;
+}
+
+.recomendation-card {
+  background: none;
+  background-color: dodgerblue;
+  border: 1px solid rgba(128, 128, 128, 0.459);
+  border-radius: 15px;
+  color: white;
+  font-weight: 700;
+}
+
+.recomendation-card img {
+  border-radius: 20px 20px 0 0;
+  margin: -7px;
+  object-fit: fill;
+  width: 150px;
+}
+
+.start-button {
+  background-color: dodgerblue;
+  border: none;
+  border-radius: 5px;
+  bottom: 0;
+  color: white;
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 5px;
+  position: fixed;
+}

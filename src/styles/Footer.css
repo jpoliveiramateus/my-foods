@@ -1,0 +1,31 @@
+footer {
+  background-color: dodgerblue;
+  bottom: 0;
+  display: flex;
+  justify-content: space-around;
+  position: fixed;
+  width: 100%;
+}
+
+footer button {
+  background-color: dodgerblue;
+  border: none;
+  padding: 0.5rem 0;
+}
+
+footer button img {
+  width: 30px;
+}
+
+.button-drinks {
+  width: 50%;
+}
+
+.button-foods {
+  width: 50%;
+}
+
+.footer i {
+  color: white;
+  font-size: 25px;
+}

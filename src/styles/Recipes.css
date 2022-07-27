@@ -1,0 +1,49 @@
+#root {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-recipe {
+  background: none;
+  border: 1px solid rgba(128, 128, 128, 0.185);
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.171);
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.card-recipe button {
+  background: none;
+  border: none;
+  width: 100%;
+}
+
+.card-recipe button div {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  max-width: auto;
+}
+
+.card-recipe button div h1 {
+  align-self: center;
+  font-size: 20px;
+  margin-left: 1rem;
+  text-align: start;
+}
+
+.card-recipe img {
+  border-radius: 10px;
+  height: 150px;
+  margin-left: -5px;
+  width: auto;
+}
+
+.card-recipe i {
+  align-self: flex-start;
+  color: black;
+  font-size: 18px;
+}
