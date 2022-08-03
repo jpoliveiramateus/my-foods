@@ -7,6 +7,7 @@ O My Foods é um aplicativo de receitas completo, através dessa aplicação o u
 - Favoritar e acompanhar o progresso de suas receitas e drinks;
 
 ### Disponível apenas na versão Mobile!
+#### Visualização da aplicação com a resolução de tela de 360 x 640 (360 pixels de largura por 640 pixels de altura)
 
 Aplicação: https://my-foods.vercel.app/
 
