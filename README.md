@@ -18,7 +18,7 @@ Aplicação: https://my-foods.vercel.app/
 
 # 📄 Sobre
 
-Projeto desenvolvido por _[João Pedro de Oliveira Mateus](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-oliveira-mateus-81b137187/)_,
+Projeto desenvolvido por _[João Pedro de Oliveira Mateus](https://www.linkedin.com/in/jpoliveira7/)_,
 _[Guilherme Vinicius Kvet Rocha](https://www.linkedin.com/in/guilherme-vinicius-kvet-rocha-6a5599170/)_,
 _[Paulo Henrique da Silva](https://www.linkedin.com/in/paulo-henrique-da-silva-a129ab231/)_,
 _[Luis Miguel Garcia da Silva](https://www.linkedin.com/in/luis-miguel-garcia-da-silva-3b1138232/)_,
